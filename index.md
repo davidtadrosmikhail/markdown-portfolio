@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+David Tadrosmikhail
 
-{% include 01-name.md %}
+<br>
 
+![Image of Yaktocat](https://octodex.github.com/images/yakocat.png)
+
+<br>
+
+[GitHub](http://github.com)
