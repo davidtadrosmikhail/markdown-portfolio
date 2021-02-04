@@ -1,0 +1,5 @@
+-basketball
+-football
+-games
+-nature
+-tv shows
