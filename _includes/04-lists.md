@@ -1,3 +1,4 @@
 -basketball
 -football
 -games
+-nature
