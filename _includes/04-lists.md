@@ -1,2 +1,3 @@
 -basketball
 -football
+-games
