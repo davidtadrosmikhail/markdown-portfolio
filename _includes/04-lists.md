@@ -2,3 +2,4 @@
 -football
 -games
 -nature
+-tv shows
