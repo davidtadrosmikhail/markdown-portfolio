@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+David Tadrosmikhail
 
 <br>
 
@@ -10,5 +10,4 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
-
+[GitHub](http://github.com)
